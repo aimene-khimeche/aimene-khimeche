@@ -10,6 +10,8 @@ I am a mobile application developer who loves Flutter and Django, i also like wo
 *   ✉️  You can contact me at [aimenekhimeche@gmail.com](mailto:aimenekhimeche@gmail.com)
 *   🚀  I'm currently working on [a delivery application](http://de)
 *   🧠  I'm learning Linux Command Line
+
+
 <a href="https://www.github.com/aimene-khimeche" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/aimene-khimeche?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/aimene_khimeche" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/aimene_khimeche?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
